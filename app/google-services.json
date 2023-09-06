@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587033143407",
+    "project_id": "todo-list-app-2fd0a",
+    "storage_bucket": "todo-list-app-2fd0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587033143407:android:6092ae2e9dc8772402459a",
+        "android_client_info": {
+          "package_name": "com.example.imguploadfbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587033143407-bpvabj8021g9bpvm7pklpm2ufvm2hqed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SuV_zgcAh5Jou1utHSD02OXboJDsPcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587033143407-bpvabj8021g9bpvm7pklpm2ufvm2hqed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
